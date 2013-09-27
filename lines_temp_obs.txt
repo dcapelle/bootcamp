@@ -1,0 +1,4 @@
+      2 temp_obs_iq.txt
+      3 temp_obs_stjohns.txt
+      5 temp_obs_van.txt
+     10 total
